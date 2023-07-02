@@ -1,6 +1,7 @@
 # TinyShell
 
-TinyShell is a Unix shell program that supports job control.
+- TinyShell is a Unix shell program that supports job control.
+- The 5th lab of <a href="https://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html">2015 Fall: 15-213 Introduction to Computer Systems.</a>
 
 ## Files
 
@@ -21,10 +22,7 @@ TinyShell is a Unix shell program that supports job control.
 ## Features
 
 - Command execution: Run commands and executables.
-- Background processes: Run commands in the background.
-- Foreground processes: Run commands in the foreground.
 - Job control: Manage and control multiple processes.
-- Signal handling: Handle signals like Ctrl+C and Ctrl+Z.
 
 ## Contributing
 
